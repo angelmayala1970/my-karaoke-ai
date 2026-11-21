@@ -1,0 +1,1858 @@
+{
+  "artist": "Velorith",
+  "title": "Je t'ai perdu dans la nuit",
+  "language": "fr",
+  "segments": [
+    {
+      "start": 19.26,
+      "end": 22.26,
+      "text": "Je t'ai perdu dans la nuit",
+      "words": [
+        {
+          "start": 19.26,
+          "end": 20.18,
+          "word": "Je"
+        },
+        {
+          "start": 20.18,
+          "end": 20.44,
+          "word": "t"
+        },
+        {
+          "start": 20.44,
+          "end": 20.5,
+          "word": "'ai"
+        },
+        {
+          "start": 20.5,
+          "end": 20.96,
+          "word": "perdu"
+        },
+        {
+          "start": 20.96,
+          "end": 21.72,
+          "word": "dans"
+        },
+        {
+          "start": 21.72,
+          "end": 21.92,
+          "word": "la"
+        },
+        {
+          "start": 21.92,
+          "end": 22.26,
+          "word": "nuit"
+        }
+      ],
+      "translations": {
+        "es": "Te perdí en la noche",
+        "en": "I lost you in the night"
+      }
+    },
+    {
+      "start": 22.26,
+      "end": 27.6,
+      "text": "Entre deux silences sans bruit",
+      "words": [
+        {
+          "start": 22.26,
+          "end": 25.22,
+          "word": "Entre"
+        },
+        {
+          "start": 25.22,
+          "end": 25.6,
+          "word": "deux"
+        },
+        {
+          "start": 25.6,
+          "end": 26.6,
+          "word": "silences"
+        },
+        {
+          "start": 26.6,
+          "end": 27.06,
+          "word": "sans"
+        },
+        {
+          "start": 27.06,
+          "end": 27.6,
+          "word": "bruit"
+        }
+      ],
+      "translations": {
+        "es": "Entre dos silencios sin ruido",
+        "en": "Between two soundless silences"
+      }
+    },
+    {
+      "start": 28.92,
+      "end": 32.1,
+      "text": "Ton regard fuyait le mien",
+      "words": [
+        {
+          "start": 28.92,
+          "end": 30.0,
+          "word": "Ton"
+        },
+        {
+          "start": 30.0,
+          "end": 30.6,
+          "word": "regard"
+        },
+        {
+          "start": 30.6,
+          "end": 31.48,
+          "word": "fuyait"
+        },
+        {
+          "start": 31.48,
+          "end": 31.68,
+          "word": "le"
+        },
+        {
+          "start": 31.68,
+          "end": 32.1,
+          "word": "mien"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 32.1,
+      "end": 36.66,
+      "text": "Comme un voleur de chagrin",
+      "words": [
+        {
+          "start": 32.1,
+          "end": 34.86,
+          "word": "Comme"
+        },
+        {
+          "start": 34.86,
+          "end": 35.1,
+          "word": "un"
+        },
+        {
+          "start": 35.1,
+          "end": 35.88,
+          "word": "voleur"
+        },
+        {
+          "start": 35.88,
+          "end": 36.12,
+          "word": "de"
+        },
+        {
+          "start": 36.12,
+          "end": 36.66,
+          "word": "chagrin"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 38.52,
+      "end": 41.24,
+      "text": "Tes mains tremblaient dans le",
+      "words": [
+        {
+          "start": 38.52,
+          "end": 39.6,
+          "word": "Tes"
+        },
+        {
+          "start": 39.6,
+          "end": 39.9,
+          "word": "mains"
+        },
+        {
+          "start": 39.9,
+          "end": 40.8,
+          "word": "tremblaient"
+        },
+        {
+          "start": 40.8,
+          "end": 41.06,
+          "word": "dans"
+        },
+        {
+          "start": 41.06,
+          "end": 41.24,
+          "word": "le"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 41.24,
+      "end": 46.82,
+      "text": "noir Mais refusait de me voir",
+      "words": [
+        {
+          "start": 41.24,
+          "end": 41.76,
+          "word": "noir"
+        },
+        {
+          "start": 41.76,
+          "end": 44.5,
+          "word": "Mais"
+        },
+        {
+          "start": 44.5,
+          "end": 45.46,
+          "word": "refusait"
+        },
+        {
+          "start": 45.46,
+          "end": 45.96,
+          "word": "de"
+        },
+        {
+          "start": 45.96,
+          "end": 46.14,
+          "word": "me"
+        },
+        {
+          "start": 46.14,
+          "end": 46.82,
+          "word": "voir"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 48.28,
+      "end": 51.14,
+      "text": "Et j'ai compris sans un",
+      "words": [
+        {
+          "start": 48.28,
+          "end": 49.36,
+          "word": "Et"
+        },
+        {
+          "start": 49.36,
+          "end": 49.5,
+          "word": "j"
+        },
+        {
+          "start": 49.5,
+          "end": 49.58,
+          "word": "'ai"
+        },
+        {
+          "start": 49.58,
+          "end": 50.08,
+          "word": "compris"
+        },
+        {
+          "start": 50.08,
+          "end": 50.84,
+          "word": "sans"
+        },
+        {
+          "start": 50.84,
+          "end": 51.14,
+          "word": "un"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 51.14,
+      "end": 56.08,
+      "text": "mot Que tu partais déjà trop",
+      "words": [
+        {
+          "start": 51.14,
+          "end": 51.68,
+          "word": "mot"
+        },
+        {
+          "start": 51.68,
+          "end": 52.9,
+          "word": "Que"
+        },
+        {
+          "start": 52.9,
+          "end": 53.16,
+          "word": "tu"
+        },
+        {
+          "start": 53.16,
+          "end": 54.16,
+          "word": "partais"
+        },
+        {
+          "start": 54.16,
+          "end": 55.58,
+          "word": "déjà"
+        },
+        {
+          "start": 55.58,
+          "end": 56.08,
+          "word": "trop"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 57.98,
+      "end": 61.32,
+      "text": "Il y avait quelque chose de",
+      "words": [
+        {
+          "start": 57.98,
+          "end": 59.1,
+          "word": "Il"
+        },
+        {
+          "start": 59.1,
+          "end": 59.3,
+          "word": "y"
+        },
+        {
+          "start": 59.3,
+          "end": 59.52,
+          "word": "avait"
+        },
+        {
+          "start": 59.52,
+          "end": 59.98,
+          "word": "quelque"
+        },
+        {
+          "start": 59.98,
+          "end": 60.76,
+          "word": "chose"
+        },
+        {
+          "start": 60.76,
+          "end": 61.32,
+          "word": "de"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 61.32,
+      "end": 67.04,
+      "text": "cassé Tant ta façon de m'embrasser",
+      "words": [
+        {
+          "start": 61.32,
+          "end": 62.74,
+          "word": "cassé"
+        },
+        {
+          "start": 62.74,
+          "end": 64.44,
+          "word": "Tant"
+        },
+        {
+          "start": 64.44,
+          "end": 64.66,
+          "word": "ta"
+        },
+        {
+          "start": 64.66,
+          "end": 65.26,
+          "word": "façon"
+        },
+        {
+          "start": 65.26,
+          "end": 65.8,
+          "word": "de"
+        },
+        {
+          "start": 65.8,
+          "end": 65.98,
+          "word": "m"
+        },
+        {
+          "start": 65.98,
+          "end": 67.04,
+          "word": "'embrasser"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 68.22,
+      "end": 71.96,
+      "text": "Comme un adieu mal prononcé",
+      "words": [
+        {
+          "start": 68.22,
+          "end": 69.34,
+          "word": "Comme"
+        },
+        {
+          "start": 69.34,
+          "end": 69.6,
+          "word": "un"
+        },
+        {
+          "start": 69.6,
+          "end": 70.06,
+          "word": "adieu"
+        },
+        {
+          "start": 70.06,
+          "end": 70.84,
+          "word": "mal"
+        },
+        {
+          "start": 70.84,
+          "end": 71.96,
+          "word": "prononcé"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 71.96,
+      "end": 75.28,
+      "text": "Que nous ne pas avouer",
+      "words": [
+        {
+          "start": 71.96,
+          "end": 73.56,
+          "word": "Que"
+        },
+        {
+          "start": 73.56,
+          "end": 73.86,
+          "word": "nous"
+        },
+        {
+          "start": 73.86,
+          "end": 74.06,
+          "word": "ne"
+        },
+        {
+          "start": 74.06,
+          "end": 74.58,
+          "word": "pas"
+        },
+        {
+          "start": 74.58,
+          "end": 75.28,
+          "word": "avouer"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 77.3,
+      "end": 82.04,
+      "text": "Tu es parti sans te retourner",
+      "words": [
+        {
+          "start": 77.3,
+          "end": 78.48,
+          "word": "Tu"
+        },
+        {
+          "start": 78.48,
+          "end": 78.78,
+          "word": "es"
+        },
+        {
+          "start": 78.78,
+          "end": 79.32,
+          "word": "parti"
+        },
+        {
+          "start": 79.32,
+          "end": 80.02,
+          "word": "sans"
+        },
+        {
+          "start": 80.02,
+          "end": 80.4,
+          "word": "te"
+        },
+        {
+          "start": 80.4,
+          "end": 82.04,
+          "word": "retourner"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 82.04,
+      "end": 86.84,
+      "text": "Comme si je n'avais jamais compté",
+      "words": [
+        {
+          "start": 82.04,
+          "end": 83.44,
+          "word": "Comme"
+        },
+        {
+          "start": 83.44,
+          "end": 83.82,
+          "word": "si"
+        },
+        {
+          "start": 83.82,
+          "end": 84.0,
+          "word": "je"
+        },
+        {
+          "start": 84.0,
+          "end": 84.2,
+          "word": "n"
+        },
+        {
+          "start": 84.2,
+          "end": 84.5,
+          "word": "'avais"
+        },
+        {
+          "start": 84.5,
+          "end": 85.22,
+          "word": "jamais"
+        },
+        {
+          "start": 85.22,
+          "end": 86.84,
+          "word": "compté"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 86.84,
+      "end": 89.22,
+      "text": "Comme si nos nuits,",
+      "words": [
+        {
+          "start": 86.84,
+          "end": 88.26,
+          "word": "Comme"
+        },
+        {
+          "start": 88.26,
+          "end": 88.68,
+          "word": "si"
+        },
+        {
+          "start": 88.68,
+          "end": 88.88,
+          "word": "nos"
+        },
+        {
+          "start": 88.88,
+          "end": 89.22,
+          "word": "nuits,"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 89.52,
+      "end": 95.7,
+      "text": "nos serments N'étaient que du vent",
+      "words": [
+        {
+          "start": 89.52,
+          "end": 89.52,
+          "word": "nos"
+        },
+        {
+          "start": 89.52,
+          "end": 90.46,
+          "word": "serments"
+        },
+        {
+          "start": 90.46,
+          "end": 93.02,
+          "word": "N"
+        },
+        {
+          "start": 93.02,
+          "end": 93.68,
+          "word": "'étaient"
+        },
+        {
+          "start": 93.68,
+          "end": 94.32,
+          "word": "que"
+        },
+        {
+          "start": 94.32,
+          "end": 94.72,
+          "word": "du"
+        },
+        {
+          "start": 94.72,
+          "end": 95.7,
+          "word": "vent"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 96.7,
+      "end": 99.08,
+      "text": "Et moi je reste",
+      "words": [
+        {
+          "start": 96.7,
+          "end": 97.86,
+          "word": "Et"
+        },
+        {
+          "start": 97.86,
+          "end": 98.14,
+          "word": "moi"
+        },
+        {
+          "start": 98.14,
+          "end": 98.44,
+          "word": "je"
+        },
+        {
+          "start": 98.44,
+          "end": 99.08,
+          "word": "reste"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 99.08,
+      "end": 105.32,
+      "text": "figé Dans un amour condamné",
+      "words": [
+        {
+          "start": 99.08,
+          "end": 100.72,
+          "word": "figé"
+        },
+        {
+          "start": 100.72,
+          "end": 102.7,
+          "word": "Dans"
+        },
+        {
+          "start": 102.7,
+          "end": 103.08,
+          "word": "un"
+        },
+        {
+          "start": 103.08,
+          "end": 103.78,
+          "word": "amour"
+        },
+        {
+          "start": 103.78,
+          "end": 105.32,
+          "word": "condamné"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 105.32,
+      "end": 108.9,
+      "text": "À t'aimer sans",
+      "words": [
+        {
+          "start": 105.32,
+          "end": 107.56,
+          "word": "À"
+        },
+        {
+          "start": 107.56,
+          "end": 107.8,
+          "word": "t"
+        },
+        {
+          "start": 107.8,
+          "end": 108.06,
+          "word": "'aimer"
+        },
+        {
+          "start": 108.06,
+          "end": 108.9,
+          "word": "sans"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 108.9,
+      "end": 114.84,
+      "text": "retour À mourir chaque jour",
+      "words": [
+        {
+          "start": 108.9,
+          "end": 110.02,
+          "word": "retour"
+        },
+        {
+          "start": 110.02,
+          "end": 112.4,
+          "word": "À"
+        },
+        {
+          "start": 112.4,
+          "end": 113.22,
+          "word": "mourir"
+        },
+        {
+          "start": 113.22,
+          "end": 113.8,
+          "word": "chaque"
+        },
+        {
+          "start": 113.8,
+          "end": 114.84,
+          "word": "jour"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 116.48,
+      "end": 119.5,
+      "text": "Les murs se souviennent de toi",
+      "words": [
+        {
+          "start": 116.48,
+          "end": 117.28,
+          "word": "Les"
+        },
+        {
+          "start": 117.28,
+          "end": 117.66,
+          "word": "murs"
+        },
+        {
+          "start": 117.66,
+          "end": 118.02,
+          "word": "se"
+        },
+        {
+          "start": 118.02,
+          "end": 118.62,
+          "word": "souviennent"
+        },
+        {
+          "start": 118.62,
+          "end": 119.1,
+          "word": "de"
+        },
+        {
+          "start": 119.1,
+          "end": 119.5,
+          "word": "toi"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 119.5,
+      "end": 124.2,
+      "text": "De ton rire au creux de moi",
+      "words": [
+        {
+          "start": 119.5,
+          "end": 122.02,
+          "word": "De"
+        },
+        {
+          "start": 122.02,
+          "end": 122.38,
+          "word": "ton"
+        },
+        {
+          "start": 122.38,
+          "end": 122.7,
+          "word": "rire"
+        },
+        {
+          "start": 122.7,
+          "end": 123.04,
+          "word": "au"
+        },
+        {
+          "start": 123.04,
+          "end": 123.66,
+          "word": "creux"
+        },
+        {
+          "start": 123.66,
+          "end": 123.82,
+          "word": "de"
+        },
+        {
+          "start": 123.82,
+          "end": 124.2,
+          "word": "moi"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 126.1,
+      "end": 128.16,
+      "text": "Mais tout ça ne faut",
+      "words": [
+        {
+          "start": 126.1,
+          "end": 126.9,
+          "word": "Mais"
+        },
+        {
+          "start": 126.9,
+          "end": 127.16,
+          "word": "tout"
+        },
+        {
+          "start": 127.16,
+          "end": 127.56,
+          "word": "ça"
+        },
+        {
+          "start": 127.56,
+          "end": 127.76,
+          "word": "ne"
+        },
+        {
+          "start": 127.76,
+          "end": 128.16,
+          "word": "faut"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 128.16,
+      "end": 134.04,
+      "text": "maintenant Même mon cœur est absent",
+      "words": [
+        {
+          "start": 128.16,
+          "end": 129.46,
+          "word": "maintenant"
+        },
+        {
+          "start": 129.46,
+          "end": 131.94,
+          "word": "Même"
+        },
+        {
+          "start": 131.94,
+          "end": 132.5,
+          "word": "mon"
+        },
+        {
+          "start": 132.5,
+          "end": 132.72,
+          "word": "cœur"
+        },
+        {
+          "start": 132.72,
+          "end": 133.22,
+          "word": "est"
+        },
+        {
+          "start": 133.22,
+          "end": 134.04,
+          "word": "absent"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 135.04,
+      "end": 139.4,
+      "text": "Je marche seul dans nos rues",
+      "words": [
+        {
+          "start": 135.04,
+          "end": 136.56,
+          "word": "Je"
+        },
+        {
+          "start": 136.56,
+          "end": 137.02,
+          "word": "marche"
+        },
+        {
+          "start": 137.02,
+          "end": 137.74,
+          "word": "seul"
+        },
+        {
+          "start": 137.74,
+          "end": 138.12,
+          "word": "dans"
+        },
+        {
+          "start": 138.12,
+          "end": 138.46,
+          "word": "nos"
+        },
+        {
+          "start": 138.46,
+          "end": 139.4,
+          "word": "rues"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 139.4,
+      "end": 143.6,
+      "text": "Où ton nombre s'est perdu",
+      "words": [
+        {
+          "start": 139.4,
+          "end": 140.46,
+          "word": "Où"
+        },
+        {
+          "start": 140.46,
+          "end": 140.84,
+          "word": "ton"
+        },
+        {
+          "start": 140.84,
+          "end": 141.9,
+          "word": "nombre"
+        },
+        {
+          "start": 141.9,
+          "end": 142.74,
+          "word": "s"
+        },
+        {
+          "start": 142.74,
+          "end": 142.84,
+          "word": "'est"
+        },
+        {
+          "start": 142.84,
+          "end": 143.6,
+          "word": "perdu"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 145.1,
+      "end": 148.64,
+      "text": "Chaque pas me parle de toi",
+      "words": [
+        {
+          "start": 145.1,
+          "end": 146.46,
+          "word": "Chaque"
+        },
+        {
+          "start": 146.46,
+          "end": 146.78,
+          "word": "pas"
+        },
+        {
+          "start": 146.78,
+          "end": 146.96,
+          "word": "me"
+        },
+        {
+          "start": 146.96,
+          "end": 147.64,
+          "word": "parle"
+        },
+        {
+          "start": 147.64,
+          "end": 147.96,
+          "word": "de"
+        },
+        {
+          "start": 147.96,
+          "end": 148.64,
+          "word": "toi"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 148.64,
+      "end": 154.0,
+      "text": "Mais toi tu n'es plus là",
+      "words": [
+        {
+          "start": 148.64,
+          "end": 150.5,
+          "word": "Mais"
+        },
+        {
+          "start": 150.5,
+          "end": 150.98,
+          "word": "toi"
+        },
+        {
+          "start": 150.98,
+          "end": 152.04,
+          "word": "tu"
+        },
+        {
+          "start": 152.04,
+          "end": 152.36,
+          "word": "n"
+        },
+        {
+          "start": 152.36,
+          "end": 152.44,
+          "word": "'es"
+        },
+        {
+          "start": 152.44,
+          "end": 152.88,
+          "word": "plus"
+        },
+        {
+          "start": 152.88,
+          "end": 154.0,
+          "word": "là"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 155.0,
+      "end": 158.02,
+      "text": "Et je répète ton",
+      "words": [
+        {
+          "start": 155.0,
+          "end": 156.06,
+          "word": "Et"
+        },
+        {
+          "start": 156.06,
+          "end": 156.28,
+          "word": "je"
+        },
+        {
+          "start": 156.28,
+          "end": 157.38,
+          "word": "répète"
+        },
+        {
+          "start": 157.38,
+          "end": 158.02,
+          "word": "ton"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 158.02,
+      "end": 164.0,
+      "text": "prénom Comme une dernière illusion",
+      "words": [
+        {
+          "start": 158.02,
+          "end": 159.28,
+          "word": "prénom"
+        },
+        {
+          "start": 159.28,
+          "end": 160.96,
+          "word": "Comme"
+        },
+        {
+          "start": 160.96,
+          "end": 161.32,
+          "word": "une"
+        },
+        {
+          "start": 161.32,
+          "end": 162.0,
+          "word": "dernière"
+        },
+        {
+          "start": 162.0,
+          "end": 164.0,
+          "word": "illusion"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 165.0,
+      "end": 167.76,
+      "text": "Mais il se brise en écho",
+      "words": [
+        {
+          "start": 165.0,
+          "end": 165.76,
+          "word": "Mais"
+        },
+        {
+          "start": 165.76,
+          "end": 166.02,
+          "word": "il"
+        },
+        {
+          "start": 166.02,
+          "end": 166.32,
+          "word": "se"
+        },
+        {
+          "start": 166.32,
+          "end": 166.84,
+          "word": "brise"
+        },
+        {
+          "start": 166.84,
+          "end": 167.24,
+          "word": "en"
+        },
+        {
+          "start": 167.24,
+          "end": 167.76,
+          "word": "écho"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 167.76,
+      "end": 173.28,
+      "text": "Dans le vide trop grand, trop froid",
+      "words": [
+        {
+          "start": 167.76,
+          "end": 168.32,
+          "word": "Dans"
+        },
+        {
+          "start": 168.32,
+          "end": 168.7,
+          "word": "le"
+        },
+        {
+          "start": 168.7,
+          "end": 169.32,
+          "word": "vide"
+        },
+        {
+          "start": 169.32,
+          "end": 169.9,
+          "word": "trop"
+        },
+        {
+          "start": 169.9,
+          "end": 170.78,
+          "word": "grand,"
+        },
+        {
+          "start": 171.12,
+          "end": 172.16,
+          "word": "trop"
+        },
+        {
+          "start": 172.16,
+          "end": 173.28,
+          "word": "froid"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 174.5,
+      "end": 179.02,
+      "text": "Tu es parti sans te retourner",
+      "words": [
+        {
+          "start": 174.5,
+          "end": 175.46,
+          "word": "Tu"
+        },
+        {
+          "start": 175.46,
+          "end": 175.76,
+          "word": "es"
+        },
+        {
+          "start": 175.76,
+          "end": 176.24,
+          "word": "parti"
+        },
+        {
+          "start": 176.24,
+          "end": 176.98,
+          "word": "sans"
+        },
+        {
+          "start": 176.98,
+          "end": 177.26,
+          "word": "te"
+        },
+        {
+          "start": 177.26,
+          "end": 179.02,
+          "word": "retourner"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 179.02,
+      "end": 183.82,
+      "text": "Comme si je n'avais jamais compté",
+      "words": [
+        {
+          "start": 179.02,
+          "end": 180.36,
+          "word": "Comme"
+        },
+        {
+          "start": 180.36,
+          "end": 180.8,
+          "word": "si"
+        },
+        {
+          "start": 180.8,
+          "end": 180.98,
+          "word": "je"
+        },
+        {
+          "start": 180.98,
+          "end": 181.2,
+          "word": "n"
+        },
+        {
+          "start": 181.2,
+          "end": 181.44,
+          "word": "'avais"
+        },
+        {
+          "start": 181.44,
+          "end": 182.18,
+          "word": "jamais"
+        },
+        {
+          "start": 182.18,
+          "end": 183.82,
+          "word": "compté"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 183.82,
+      "end": 186.16,
+      "text": "Comme si nos nuits,",
+      "words": [
+        {
+          "start": 183.82,
+          "end": 185.2,
+          "word": "Comme"
+        },
+        {
+          "start": 185.2,
+          "end": 185.64,
+          "word": "si"
+        },
+        {
+          "start": 185.64,
+          "end": 185.82,
+          "word": "nos"
+        },
+        {
+          "start": 185.82,
+          "end": 186.16,
+          "word": "nuits,"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 186.28,
+      "end": 192.38,
+      "text": "nos serments N'étaient que du vent",
+      "words": [
+        {
+          "start": 186.28,
+          "end": 186.46,
+          "word": "nos"
+        },
+        {
+          "start": 186.46,
+          "end": 187.3,
+          "word": "serments"
+        },
+        {
+          "start": 187.3,
+          "end": 189.96,
+          "word": "N"
+        },
+        {
+          "start": 189.96,
+          "end": 190.74,
+          "word": "'étaient"
+        },
+        {
+          "start": 190.74,
+          "end": 191.28,
+          "word": "que"
+        },
+        {
+          "start": 191.28,
+          "end": 191.66,
+          "word": "du"
+        },
+        {
+          "start": 191.66,
+          "end": 192.38,
+          "word": "vent"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 193.38,
+      "end": 196.06,
+      "text": "Et moi je reste",
+      "words": [
+        {
+          "start": 193.38,
+          "end": 194.84,
+          "word": "Et"
+        },
+        {
+          "start": 194.84,
+          "end": 195.1,
+          "word": "moi"
+        },
+        {
+          "start": 195.1,
+          "end": 195.4,
+          "word": "je"
+        },
+        {
+          "start": 195.4,
+          "end": 196.06,
+          "word": "reste"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 196.06,
+      "end": 202.26,
+      "text": "figé Dans un amour condamné",
+      "words": [
+        {
+          "start": 196.06,
+          "end": 197.48,
+          "word": "figé"
+        },
+        {
+          "start": 197.48,
+          "end": 199.68,
+          "word": "Dans"
+        },
+        {
+          "start": 199.68,
+          "end": 200.04,
+          "word": "un"
+        },
+        {
+          "start": 200.04,
+          "end": 200.76,
+          "word": "amour"
+        },
+        {
+          "start": 200.76,
+          "end": 202.26,
+          "word": "condamné"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 203.38,
+      "end": 205.84,
+      "text": "À t'aimer sans",
+      "words": [
+        {
+          "start": 203.38,
+          "end": 204.5,
+          "word": "À"
+        },
+        {
+          "start": 204.5,
+          "end": 204.78,
+          "word": "t"
+        },
+        {
+          "start": 204.78,
+          "end": 205.06,
+          "word": "'aimer"
+        },
+        {
+          "start": 205.06,
+          "end": 205.84,
+          "word": "sans"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 205.84,
+      "end": 211.76,
+      "text": "retour À mourir chaque jour",
+      "words": [
+        {
+          "start": 205.84,
+          "end": 206.98,
+          "word": "retour"
+        },
+        {
+          "start": 206.98,
+          "end": 209.4,
+          "word": "À"
+        },
+        {
+          "start": 209.4,
+          "end": 210.2,
+          "word": "mourir"
+        },
+        {
+          "start": 210.2,
+          "end": 210.74,
+          "word": "chaque"
+        },
+        {
+          "start": 210.74,
+          "end": 211.76,
+          "word": "jour"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 213.42,
+      "end": 216.82,
+      "text": "Dis-moi, est-ce que tu respires",
+      "words": [
+        {
+          "start": 213.42,
+          "end": 214.22,
+          "word": "Dis"
+        },
+        {
+          "start": 214.22,
+          "end": 214.58,
+          "word": "-moi,"
+        },
+        {
+          "start": 214.66,
+          "end": 214.86,
+          "word": "est"
+        },
+        {
+          "start": 214.86,
+          "end": 214.96,
+          "word": "-ce"
+        },
+        {
+          "start": 214.96,
+          "end": 215.16,
+          "word": "que"
+        },
+        {
+          "start": 215.16,
+          "end": 215.4,
+          "word": "tu"
+        },
+        {
+          "start": 215.4,
+          "end": 216.82,
+          "word": "respires"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 216.82,
+      "end": 221.92,
+      "text": "encore Quand tu penses à mon corps",
+      "words": [
+        {
+          "start": 216.82,
+          "end": 217.64,
+          "word": "encore"
+        },
+        {
+          "start": 217.64,
+          "end": 219.18,
+          "word": "Quand"
+        },
+        {
+          "start": 219.18,
+          "end": 219.58,
+          "word": "tu"
+        },
+        {
+          "start": 219.58,
+          "end": 220.42,
+          "word": "penses"
+        },
+        {
+          "start": 220.42,
+          "end": 220.58,
+          "word": "à"
+        },
+        {
+          "start": 220.58,
+          "end": 220.84,
+          "word": "mon"
+        },
+        {
+          "start": 220.84,
+          "end": 221.92,
+          "word": "corps"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 223.14,
+      "end": 227.64,
+      "text": "Où suis-je déjà effacé Comme",
+      "words": [
+        {
+          "start": 223.14,
+          "end": 223.94,
+          "word": "Où"
+        },
+        {
+          "start": 223.94,
+          "end": 224.18,
+          "word": "suis"
+        },
+        {
+          "start": 224.18,
+          "end": 224.38,
+          "word": "-je"
+        },
+        {
+          "start": 224.38,
+          "end": 225.02,
+          "word": "déjà"
+        },
+        {
+          "start": 225.02,
+          "end": 226.28,
+          "word": "effacé"
+        },
+        {
+          "start": 226.28,
+          "end": 227.64,
+          "word": "Comme"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 227.64,
+      "end": 231.64,
+      "text": "une page qu'on a brûlé",
+      "words": [
+        {
+          "start": 227.64,
+          "end": 227.96,
+          "word": "une"
+        },
+        {
+          "start": 227.96,
+          "end": 228.9,
+          "word": "page"
+        },
+        {
+          "start": 228.9,
+          "end": 229.6,
+          "word": "qu"
+        },
+        {
+          "start": 229.6,
+          "end": 229.76,
+          "word": "'on"
+        },
+        {
+          "start": 229.76,
+          "end": 230.16,
+          "word": "a"
+        },
+        {
+          "start": 230.16,
+          "end": 231.64,
+          "word": "brûlé"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 232.64,
+      "end": 238.44,
+      "text": "Tu es parti sans te retourner Mais",
+      "words": [
+        {
+          "start": 232.64,
+          "end": 233.66,
+          "word": "Tu"
+        },
+        {
+          "start": 233.66,
+          "end": 233.92,
+          "word": "es"
+        },
+        {
+          "start": 233.92,
+          "end": 234.46,
+          "word": "parti"
+        },
+        {
+          "start": 234.46,
+          "end": 235.12,
+          "word": "sans"
+        },
+        {
+          "start": 235.12,
+          "end": 235.48,
+          "word": "te"
+        },
+        {
+          "start": 235.48,
+          "end": 237.14,
+          "word": "retourner"
+        },
+        {
+          "start": 237.14,
+          "end": 238.44,
+          "word": "Mais"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 238.44,
+      "end": 241.52,
+      "text": "moi je n'ai pas su t'oublier",
+      "words": [
+        {
+          "start": 238.44,
+          "end": 238.74,
+          "word": "moi"
+        },
+        {
+          "start": 238.74,
+          "end": 238.98,
+          "word": "je"
+        },
+        {
+          "start": 238.98,
+          "end": 239.12,
+          "word": "n"
+        },
+        {
+          "start": 239.12,
+          "end": 239.22,
+          "word": "'ai"
+        },
+        {
+          "start": 239.22,
+          "end": 239.56,
+          "word": "pas"
+        },
+        {
+          "start": 239.56,
+          "end": 240.08,
+          "word": "su"
+        },
+        {
+          "start": 240.08,
+          "end": 240.86,
+          "word": "t"
+        },
+        {
+          "start": 240.86,
+          "end": 241.52,
+          "word": "'oublier"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 242.64,
+      "end": 250.26,
+      "text": "Je vis avec ton absence Comme une sentence",
+      "words": [
+        {
+          "start": 242.64,
+          "end": 243.24,
+          "word": "Je"
+        },
+        {
+          "start": 243.24,
+          "end": 243.58,
+          "word": "vis"
+        },
+        {
+          "start": 243.58,
+          "end": 244.06,
+          "word": "avec"
+        },
+        {
+          "start": 244.06,
+          "end": 244.64,
+          "word": "ton"
+        },
+        {
+          "start": 244.64,
+          "end": 245.8,
+          "word": "absence"
+        },
+        {
+          "start": 245.8,
+          "end": 248.7,
+          "word": "Comme"
+        },
+        {
+          "start": 248.7,
+          "end": 249.32,
+          "word": "une"
+        },
+        {
+          "start": 249.32,
+          "end": 250.26,
+          "word": "sentence"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 251.26,
+      "end": 254.48,
+      "text": "Et même si tout est",
+      "words": [
+        {
+          "start": 251.26,
+          "end": 252.72,
+          "word": "Et"
+        },
+        {
+          "start": 252.72,
+          "end": 253.16,
+          "word": "même"
+        },
+        {
+          "start": 253.16,
+          "end": 253.58,
+          "word": "si"
+        },
+        {
+          "start": 253.58,
+          "end": 253.94,
+          "word": "tout"
+        },
+        {
+          "start": 253.94,
+          "end": 254.48,
+          "word": "est"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 254.48,
+      "end": 260.1,
+      "text": "fini Tu restes mon infini",
+      "words": [
+        {
+          "start": 254.48,
+          "end": 255.06,
+          "word": "fini"
+        },
+        {
+          "start": 255.06,
+          "end": 257.5,
+          "word": "Tu"
+        },
+        {
+          "start": 257.5,
+          "end": 258.34,
+          "word": "restes"
+        },
+        {
+          "start": 258.34,
+          "end": 258.82,
+          "word": "mon"
+        },
+        {
+          "start": 258.82,
+          "end": 260.1,
+          "word": "infini"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 260.1,
+      "end": 270.38,
+      "text": "Mon blessure, mon détour Mon éterne amour",
+      "words": [
+        {
+          "start": 260.1,
+          "end": 261.08,
+          "word": "Mon"
+        },
+        {
+          "start": 261.08,
+          "end": 263.64,
+          "word": "blessure,"
+        },
+        {
+          "start": 264.06,
+          "end": 264.06,
+          "word": "mon"
+        },
+        {
+          "start": 264.06,
+          "end": 265.22,
+          "word": "détour"
+        },
+        {
+          "start": 265.22,
+          "end": 267.7,
+          "word": "Mon"
+        },
+        {
+          "start": 267.7,
+          "end": 268.44,
+          "word": "éterne"
+        },
+        {
+          "start": 268.44,
+          "end": 270.38,
+          "word": "amour"
+        }
+      ],
+      "translations": {}
+    }
+  ]
+}
