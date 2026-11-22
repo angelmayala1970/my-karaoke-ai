@@ -12,8 +12,24 @@ header{flex:0 0 auto}
 .player-panel{flex:0 0 auto;position:relative;z-index:5;width:100%;margin-top:6px}
 .line{overflow-wrap:break-word}
 @media(max-width:430px){.line{font-size:clamp(21px,6vw,27px);padding:8px 2px;margin:5px 0 12px}.player-panel{padding:9px 8px 8px}.controls{gap:4px}.control{min-height:55px}.control .symbol{font-size:23px}.switches{margin-bottom:5px}.artist{margin-bottom:6px}}
+
+/* Library navigation: additive to original V5.4 player */
+#library{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:14px 8px 22px}
+#playerView{display:none;flex:1;min-height:0;flex-direction:column}
+#playerView.open{display:flex}
+#library[hidden],#playerView[hidden]{display:none!important}
+.library-top{text-align:center;padding:14px 0 18px}.library-top h2{margin:4px 0 6px;color:#f0b1ff;font-size:23px}.library-top p{color:#c9b2e8;font-size:13px;margin:0}
+.library-card{display:flex;width:100%;text-align:left;align-items:center;gap:14px;margin:10px 0;padding:16px;border:1px solid #76589a;border-radius:20px;background:linear-gradient(130deg,#38214f,#25163d);color:white;cursor:pointer;font:inherit}
+.library-card .art{flex:0 0 54px;width:54px;height:54px;display:grid;place-items:center;background:#7545a1;border-radius:14px;font-size:29px}
+.library-card .details{min-width:0;flex:1}.library-card strong{display:block;font-size:17px}.library-card small{display:block;margin-top:5px;color:#c9b2e8;font-size:12px}.library-card .chevron{font-size:24px;color:#f0b1ff}
+.library-back{border:1px solid #76589a;border-radius:25px;background:#281741;color:#fff;padding:9px 14px;cursor:pointer;font-size:13px;margin-bottom:7px}
+.library-card:focus-visible,.library-back:focus-visible{outline:3px solid #edb1ff;outline-offset:2px}
+.player-nav{display:flex;align-items:center;gap:8px;margin-bottom:5px}.player-nav button{border:1px solid #76589a;background:#281741;color:#fff;border-radius:18px;padding:6px 10px;font-size:12px;cursor:pointer}.player-nav span{font-size:11px;color:#c9b2e8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#playerView header{flex:none}#playerView #lyrics{flex:1 1 0}
 </style></head><body><main>
-<header><h1>MY KARAOKE AI</h1><div class="tag">Sing. Learn. Feel the music.</div><div class="mic">&#127908;</div><div class="song">Je t'ai perdu dans la nuit</div><div class="artist">Velorith</div><div class="switches"><button id="es" class="active" type="button">ES Espa&ntilde;ol</button><button id="en" type="button">GB English</button><button id="toggle" type="button">Traducci&oacute;n: ON</button></div></header>
+<section id="library" aria-label="Biblioteca de karaoke"><div class="library-top"><div class="mic">🎤</div><h1>MY KARAOKE AI</h1><div class="tag">Sing. Learn. Feel the music.</div><h2 id="libraryTitle">Selecciona un artista</h2><p id="libraryHint">Tu biblioteca musical</p></div><div id="libraryItems"></div></section>
+<div id="playerView" hidden><div class="player-nav"><button type="button" id="toSongs">‹ Canciones</button><span id="albumBreadcrumb"></span></div>
+<header><h1>MY KARAOKE AI</h1><div class="tag">Sing. Learn. Feel the music.</div><div class="mic">&#127908;</div><div class="song" id="songTitle">Je t'ai perdu dans la nuit</div><div class="artist">Velorith</div><div class="switches" id="translationControls" hidden><button id="es" class="active" type="button">ES Espa&ntilde;ol</button><button id="en" type="button">GB English</button><button id="toggle" type="button">Traducci&oacute;n: ON</button></div></header>
 <section id="lyrics" aria-label="Letras sincronizadas"><div class="line">Cargando letras...</div></section>
 <div class="player-panel"><div class="timeline"><span id="elapsed">0:00</span><input id="seek" type="range" min="0" max="1000" value="0" aria-label="Progreso de la canci&oacute;n"><span id="duration">0:00</span></div><div class="controls">
 <button class="control" id="restart" type="button"><span class="symbol" aria-hidden="true">&#8634;</span><span>Inicio</span></button>
@@ -23,11 +39,11 @@ header{flex:0 0 auto}
 <button class="control" id="airplay" type="button"><span class="symbol" aria-hidden="true">&#9655;</span><span>AirPlay</span></button>
 </div><div class="foot"><span>MY KARAOKE AI &middot; V5.4</span><span id="status" class="status">Listo para cantar &#127926;</span></div></div>
 <audio id="player" preload="metadata" playsinline webkit-playsinline src="song.m4a"></audio>
-</main><script>
+</div></main><script>
 (()=>{'use strict';
 if('scrollRestoration' in history)history.scrollRestoration='manual';
 const audio=document.getElementById('player'),lyrics=document.getElementById('lyrics'),seek=document.getElementById('seek');
-const status=document.getElementById('status');let audioReady=false;let segments=[],language='es',translationOn=true,activeIndex=-1,seeking=false;
+const status=document.getElementById('status');let audioReady=false;let segments=[],language='es',translationOn=false,activeIndex=-1,seeking=false;let currentSong=null,loadToken=0,blobURL=null,screen='artists',albumSelected=null;
 const $=id=>document.getElementById(id);
 const fmt=t=>Number.isFinite(t)?`${Math.floor(Math.max(0,t)/60)}:${String(Math.floor(Math.max(0,t)%60)).padStart(2,'0')}`:'0:00';
 const clean=s=>String(s??'').replace(/\s+/g,' ').trim();
@@ -50,24 +66,28 @@ $('en').addEventListener('click',()=>{language='en';$('en').classList.add('activ
 $('toggle').addEventListener('click',()=>{translationOn=!translationOn;$('toggle').textContent='Traducción: '+(translationOn?'ON':'OFF');updateTranslations();});
 audio.addEventListener('timeupdate',()=>update());audio.addEventListener('seeked',()=>update(true));audio.addEventListener('loadedmetadata',()=>update());audio.addEventListener('play',syncPlay);audio.addEventListener('pause',syncPlay);audio.addEventListener('ended',syncPlay);
 function frame(){if(!audio.paused)update();requestAnimationFrame(frame);}requestAnimationFrame(frame);
-// Load the audio as a local Blob. Python's basic http.server does not serve HTTP byte ranges,
-// which makes browser seeks in M4A files jump back to the start. Blob URLs are seekable.
-status.textContent='Preparando audio...';
-fetch('song.m4a?v=54', {cache:'no-store'}).then(r=>{
- if(!r.ok)throw Error('HTTP '+r.status);
- return r.blob();
-}).then(blob=>{
- if(!blob.size)throw Error('Audio vacío');
- const localAudioUrl=URL.createObjectURL(blob);
- audio.pause();
- audio.src=localAudioUrl;
- audio.load();
- audioReady=true;
- status.textContent='Audio listo · '+(segments.length||0)+' estrofas';
-}).catch(err=>{
- status.textContent='No se pudo preparar audio: '+err.message;
-});
-
-fetch('song.json?v=54').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json();}).then(data=>{segments=normalize(data);render();status.textContent=segments.length+' estrofas cargadas';}).catch(err=>{lyrics.textContent='No se pudieron cargar las letras: '+err.message;status.textContent='Error al cargar letras';});
+// Song catalog: song 1 keeps the existing root files; song 2 uses the ZIP paths.
+// Later songs are listed but require their audio/lyrics files before playback.
+const albums=[
+ {name:'Les Ruines du Silence',icon:'🌙',songs:[
+  ['1-01',"Je t'ai perdu dans la nuit"],['1-02','Le goût du vide'],['1-03','Brisée en deux'],['1-04','Ton dernier mensonge'],['1-05','Les cendres de nous']]},
+ {name:"Les Secrets de l'Été",icon:'🌿',songs:[
+  ['2-01','La Route des Oliviers'],['2-02','La Maison aux Volets Bleus'],['2-03','Le Parfum de Lavande'],['2-04','Un Été à Saint-Rémy'],['2-06',"L'Homme de la Librairie"]]}
+];
+const library=$('library'),playerView=$('playerView'),items=$('libraryItems');
+function card(title,subtitle,icon,action){const b=document.createElement('button');b.type='button';b.className='library-card';const a=document.createElement('span');a.className='art';a.textContent=icon;const d=document.createElement('span');d.className='details';const strong=document.createElement('strong');strong.textContent=title;const small=document.createElement('small');small.textContent=subtitle;d.append(strong,small);const arrow=document.createElement('span');arrow.className='chevron';arrow.textContent='›';b.append(a,d,arrow);b.addEventListener('click',action);items.appendChild(b);}
+function showLibrary(next,album=null){audio.pause();syncPlay();library.hidden=false;playerView.hidden=true;playerView.classList.remove('open');screen=next;albumSelected=album;items.replaceChildren();
+ if(next==='artists'){$('libraryTitle').textContent='Selecciona un artista';$('libraryHint').textContent='Tu biblioteca musical';card('Velorith','2 álbumes · 10 canciones','🎙️',()=>showLibrary('albums'));}
+ else if(next==='albums'){$('libraryTitle').textContent='Velorith';$('libraryHint').textContent='Selecciona un álbum';const b=document.createElement('button');b.className='library-back';b.textContent='‹ Artistas';b.onclick=()=>showLibrary('artists');items.appendChild(b);albums.forEach((a,i)=>card(a.name,'5 canciones',a.icon,()=>showLibrary('songs',i)));}
+ else{$('libraryTitle').textContent=albums[album].name;$('libraryHint').textContent='Selecciona una canción';const b=document.createElement('button');b.className='library-back';b.textContent='‹ Álbumes';b.onclick=()=>showLibrary('albums');items.appendChild(b);albums[album].songs.forEach(([id,title],i)=>card(title,'Velorith · Pista '+(i+1),'🎵',()=>openSong(id,title,album)));}
+}
+function loadAudio(path,token){audioReady=false;status.textContent='Preparando audio...';if(blobURL){URL.revokeObjectURL(blobURL);blobURL=null;}audio.removeAttribute('src');audio.load();
+ fetch(path,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.blob();}).then(blob=>{if(token!==loadToken)return;if(!blob.size)throw Error('Audio vacío');blobURL=URL.createObjectURL(blob);audio.src=blobURL;audio.load();audioReady=true;status.textContent='Audio listo · '+segments.length+' estrofas';}).catch(err=>{if(token===loadToken)status.textContent='Falta audio: '+err.message;});}
+function loadLyrics(path,token){segments=[];lyrics.textContent='Cargando letras...';fetch(path,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json();}).then(data=>{if(token!==loadToken)return;segments=normalize(data);render();status.textContent=audioReady?'Audio listo · '+segments.length+' estrofas':'Letras cargadas · preparando audio';}).catch(err=>{if(token!==loadToken)return;lyrics.textContent='No se pudieron cargar las letras: '+err.message;status.textContent='Faltan letras';});}
+function openSong(id,title,album){currentSong=id;const token=++loadToken;audio.pause();audio.currentTime=0;syncPlay();$('songTitle').textContent=title;$('albumBreadcrumb').textContent=albums[album].name;library.hidden=true;playerView.hidden=false;playerView.classList.add('open');
+ // The first track remains compatible with the already published song.m4a/song.json.
+ const audioPath=id==='1-01'?'song.m4a':'audio/'+id+'.m4a';const lyricPath=id==='1-01'?'song.json':'lyrics/'+id+'.json';loadAudio(audioPath,token);loadLyrics(lyricPath,token);}
+$('toSongs').addEventListener('click',()=>{++loadToken;showLibrary('songs',albumSelected);});
+showLibrary('artists');
 })();
 </script></body></html>
