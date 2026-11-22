@@ -1,0 +1,1580 @@
+{
+  "artist": "Velorith",
+  "title": "Le goût du vide",
+  "language": "fr",
+  "segments": [
+    {
+      "start": 14,
+      "end": 20.88,
+      "text": "Ton absence a un goût amer comme un hiver sans lumière.",
+      "words": [
+        {
+          "start": 14,
+          "end": 14.47,
+          "word": "Ton"
+        },
+        {
+          "start": 14.47,
+          "end": 15.56,
+          "word": "absence"
+        },
+        {
+          "start": 15.56,
+          "end": 15.72,
+          "word": "a"
+        },
+        {
+          "start": 15.72,
+          "end": 16.03,
+          "word": "un"
+        },
+        {
+          "start": 16.03,
+          "end": 16.66,
+          "word": "goût"
+        },
+        {
+          "start": 16.66,
+          "end": 17.28,
+          "word": "amer"
+        },
+        {
+          "start": 17.28,
+          "end": 18.07,
+          "word": "comme"
+        },
+        {
+          "start": 18.07,
+          "end": 18.38,
+          "word": "un"
+        },
+        {
+          "start": 18.38,
+          "end": 19.16,
+          "word": "hiver"
+        },
+        {
+          "start": 19.16,
+          "end": 19.79,
+          "word": "sans"
+        },
+        {
+          "start": 19.79,
+          "end": 20.88,
+          "word": "lumière."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 21,
+      "end": 27.88,
+      "text": "Les nuits s'étirent sans fin et je ne sens plus rien.",
+      "words": [
+        {
+          "start": 21,
+          "end": 21.5,
+          "word": "Les"
+        },
+        {
+          "start": 21.5,
+          "end": 22.34,
+          "word": "nuits"
+        },
+        {
+          "start": 22.34,
+          "end": 23.68,
+          "word": "s'étirent"
+        },
+        {
+          "start": 23.68,
+          "end": 24.36,
+          "word": "sans"
+        },
+        {
+          "start": 24.36,
+          "end": 24.86,
+          "word": "fin"
+        },
+        {
+          "start": 24.86,
+          "end": 25.2,
+          "word": "et"
+        },
+        {
+          "start": 25.2,
+          "end": 25.53,
+          "word": "je"
+        },
+        {
+          "start": 25.53,
+          "end": 25.87,
+          "word": "ne"
+        },
+        {
+          "start": 25.87,
+          "end": 26.54,
+          "word": "sens"
+        },
+        {
+          "start": 26.54,
+          "end": 27.21,
+          "word": "plus"
+        },
+        {
+          "start": 27.21,
+          "end": 27.88,
+          "word": "rien."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 28,
+      "end": 33.88,
+      "text": "Les drag de ton parfum, mais ton corps n'y est plus enfin.",
+      "words": [
+        {
+          "start": 28,
+          "end": 28.4,
+          "word": "Les"
+        },
+        {
+          "start": 28.4,
+          "end": 28.94,
+          "word": "drag"
+        },
+        {
+          "start": 28.94,
+          "end": 29.2,
+          "word": "de"
+        },
+        {
+          "start": 29.2,
+          "end": 29.6,
+          "word": "ton"
+        },
+        {
+          "start": 29.6,
+          "end": 30.41,
+          "word": "parfum,"
+        },
+        {
+          "start": 30.41,
+          "end": 30.94,
+          "word": "mais"
+        },
+        {
+          "start": 30.94,
+          "end": 31.34,
+          "word": "ton"
+        },
+        {
+          "start": 31.34,
+          "end": 32.01,
+          "word": "corps"
+        },
+        {
+          "start": 32.01,
+          "end": 32.28,
+          "word": "n'y"
+        },
+        {
+          "start": 32.28,
+          "end": 32.68,
+          "word": "est"
+        },
+        {
+          "start": 32.68,
+          "end": 33.21,
+          "word": "plus"
+        },
+        {
+          "start": 33.21,
+          "end": 33.88,
+          "word": "enfin."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 34,
+      "end": 42.88,
+      "text": "Je parle à l'ombre de toi qui ne répond jamais. Pourquoi vraiment",
+      "words": [
+        {
+          "start": 34,
+          "end": 34.34,
+          "word": "Je"
+        },
+        {
+          "start": 34.34,
+          "end": 35.2,
+          "word": "parle"
+        },
+        {
+          "start": 35.2,
+          "end": 35.37,
+          "word": "à"
+        },
+        {
+          "start": 35.37,
+          "end": 36.39,
+          "word": "l'ombre"
+        },
+        {
+          "start": 36.39,
+          "end": 36.73,
+          "word": "de"
+        },
+        {
+          "start": 36.73,
+          "end": 37.24,
+          "word": "toi"
+        },
+        {
+          "start": 37.24,
+          "end": 37.76,
+          "word": "qui"
+        },
+        {
+          "start": 37.76,
+          "end": 38.1,
+          "word": "ne"
+        },
+        {
+          "start": 38.1,
+          "end": 39.12,
+          "word": "répond"
+        },
+        {
+          "start": 39.12,
+          "end": 40.15,
+          "word": "jamais."
+        },
+        {
+          "start": 40.15,
+          "end": 41.51,
+          "word": "Pourquoi"
+        },
+        {
+          "start": 41.51,
+          "end": 42.88,
+          "word": "vraiment"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 43,
+      "end": 48.88,
+      "text": "j'ai essayé de te remplacer par des silences et des regrets ? Mais",
+      "words": [
+        {
+          "start": 43,
+          "end": 43.33,
+          "word": "j'ai"
+        },
+        {
+          "start": 43.33,
+          "end": 44.0,
+          "word": "essayé"
+        },
+        {
+          "start": 44.0,
+          "end": 44.22,
+          "word": "de"
+        },
+        {
+          "start": 44.22,
+          "end": 44.44,
+          "word": "te"
+        },
+        {
+          "start": 44.44,
+          "end": 45.44,
+          "word": "remplacer"
+        },
+        {
+          "start": 45.44,
+          "end": 45.77,
+          "word": "par"
+        },
+        {
+          "start": 45.77,
+          "end": 46.11,
+          "word": "des"
+        },
+        {
+          "start": 46.11,
+          "end": 46.99,
+          "word": "silences"
+        },
+        {
+          "start": 46.99,
+          "end": 47.22,
+          "word": "et"
+        },
+        {
+          "start": 47.22,
+          "end": 47.55,
+          "word": "des"
+        },
+        {
+          "start": 47.55,
+          "end": 48.33,
+          "word": "regrets"
+        },
+        {
+          "start": 48.33,
+          "end": 48.44,
+          "word": "?"
+        },
+        {
+          "start": 48.44,
+          "end": 48.88,
+          "word": "Mais"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 49,
+      "end": 60.88,
+      "text": "même le temps s'est arrêté le jour où tu m'as laissé.",
+      "words": [
+        {
+          "start": 49,
+          "end": 50.19,
+          "word": "même"
+        },
+        {
+          "start": 50.19,
+          "end": 50.78,
+          "word": "le"
+        },
+        {
+          "start": 50.78,
+          "end": 52.27,
+          "word": "temps"
+        },
+        {
+          "start": 52.27,
+          "end": 53.46,
+          "word": "s'est"
+        },
+        {
+          "start": 53.46,
+          "end": 55.24,
+          "word": "arrêté"
+        },
+        {
+          "start": 55.24,
+          "end": 55.83,
+          "word": "le"
+        },
+        {
+          "start": 55.83,
+          "end": 57.02,
+          "word": "jour"
+        },
+        {
+          "start": 57.02,
+          "end": 57.61,
+          "word": "où"
+        },
+        {
+          "start": 57.61,
+          "end": 58.21,
+          "word": "tu"
+        },
+        {
+          "start": 58.21,
+          "end": 59.1,
+          "word": "m'as"
+        },
+        {
+          "start": 59.1,
+          "end": 60.88,
+          "word": "laissé."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 61,
+      "end": 69.88,
+      "text": "Le vide a pris ta place. C'est mon bras comme tu ne le fais plus, comme tu ne le feras plus. Il me sert contre lui dans",
+      "words": [
+        {
+          "start": 61,
+          "end": 61.2,
+          "word": "Le"
+        },
+        {
+          "start": 61.2,
+          "end": 61.6,
+          "word": "vide"
+        },
+        {
+          "start": 61.6,
+          "end": 61.7,
+          "word": "a"
+        },
+        {
+          "start": 61.7,
+          "end": 62.1,
+          "word": "pris"
+        },
+        {
+          "start": 62.1,
+          "end": 62.3,
+          "word": "ta"
+        },
+        {
+          "start": 62.3,
+          "end": 62.8,
+          "word": "place."
+        },
+        {
+          "start": 62.8,
+          "end": 63.2,
+          "word": "C'est"
+        },
+        {
+          "start": 63.2,
+          "end": 63.49,
+          "word": "mon"
+        },
+        {
+          "start": 63.49,
+          "end": 63.89,
+          "word": "bras"
+        },
+        {
+          "start": 63.89,
+          "end": 64.39,
+          "word": "comme"
+        },
+        {
+          "start": 64.39,
+          "end": 64.59,
+          "word": "tu"
+        },
+        {
+          "start": 64.59,
+          "end": 64.79,
+          "word": "ne"
+        },
+        {
+          "start": 64.79,
+          "end": 64.99,
+          "word": "le"
+        },
+        {
+          "start": 64.99,
+          "end": 65.39,
+          "word": "fais"
+        },
+        {
+          "start": 65.39,
+          "end": 65.79,
+          "word": "plus,"
+        },
+        {
+          "start": 65.79,
+          "end": 66.29,
+          "word": "comme"
+        },
+        {
+          "start": 66.29,
+          "end": 66.49,
+          "word": "tu"
+        },
+        {
+          "start": 66.49,
+          "end": 66.69,
+          "word": "ne"
+        },
+        {
+          "start": 66.69,
+          "end": 66.89,
+          "word": "le"
+        },
+        {
+          "start": 66.89,
+          "end": 67.39,
+          "word": "feras"
+        },
+        {
+          "start": 67.39,
+          "end": 67.78,
+          "word": "plus."
+        },
+        {
+          "start": 67.78,
+          "end": 67.98,
+          "word": "Il"
+        },
+        {
+          "start": 67.98,
+          "end": 68.18,
+          "word": "me"
+        },
+        {
+          "start": 68.18,
+          "end": 68.58,
+          "word": "sert"
+        },
+        {
+          "start": 68.58,
+          "end": 69.18,
+          "word": "contre"
+        },
+        {
+          "start": 69.18,
+          "end": 69.48,
+          "word": "lui"
+        },
+        {
+          "start": 69.48,
+          "end": 69.88,
+          "word": "dans"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 70,
+      "end": 82.88,
+      "text": "le froid de la nuit et je tombe, je m'efface dans ce vide qui me dépasse.",
+      "words": [
+        {
+          "start": 70,
+          "end": 70.47,
+          "word": "le"
+        },
+        {
+          "start": 70.47,
+          "end": 71.64,
+          "word": "froid"
+        },
+        {
+          "start": 71.64,
+          "end": 72.11,
+          "word": "de"
+        },
+        {
+          "start": 72.11,
+          "end": 72.58,
+          "word": "la"
+        },
+        {
+          "start": 72.58,
+          "end": 73.51,
+          "word": "nuit"
+        },
+        {
+          "start": 73.51,
+          "end": 73.98,
+          "word": "et"
+        },
+        {
+          "start": 73.98,
+          "end": 74.45,
+          "word": "je"
+        },
+        {
+          "start": 74.45,
+          "end": 75.62,
+          "word": "tombe,"
+        },
+        {
+          "start": 75.62,
+          "end": 76.09,
+          "word": "je"
+        },
+        {
+          "start": 76.09,
+          "end": 77.73,
+          "word": "m'efface"
+        },
+        {
+          "start": 77.73,
+          "end": 78.66,
+          "word": "dans"
+        },
+        {
+          "start": 78.66,
+          "end": 79.13,
+          "word": "ce"
+        },
+        {
+          "start": 79.13,
+          "end": 80.07,
+          "word": "vide"
+        },
+        {
+          "start": 80.07,
+          "end": 80.77,
+          "word": "qui"
+        },
+        {
+          "start": 80.77,
+          "end": 81.24,
+          "word": "me"
+        },
+        {
+          "start": 81.24,
+          "end": 82.88,
+          "word": "dépasse."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 83,
+      "end": 89.88,
+      "text": "Les vers s'alignent au comptoir comme mes erreurs chaque soir.",
+      "words": [
+        {
+          "start": 83,
+          "end": 83.4,
+          "word": "Les"
+        },
+        {
+          "start": 83.4,
+          "end": 83.94,
+          "word": "vers"
+        },
+        {
+          "start": 83.94,
+          "end": 85.16,
+          "word": "s'alignent"
+        },
+        {
+          "start": 85.16,
+          "end": 85.43,
+          "word": "au"
+        },
+        {
+          "start": 85.43,
+          "end": 86.51,
+          "word": "comptoir"
+        },
+        {
+          "start": 86.51,
+          "end": 87.18,
+          "word": "comme"
+        },
+        {
+          "start": 87.18,
+          "end": 87.59,
+          "word": "mes"
+        },
+        {
+          "start": 87.59,
+          "end": 88.53,
+          "word": "erreurs"
+        },
+        {
+          "start": 88.53,
+          "end": 89.34,
+          "word": "chaque"
+        },
+        {
+          "start": 89.34,
+          "end": 89.88,
+          "word": "soir."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 90,
+      "end": 96.88,
+      "text": "Je nois à ton souvenir mais il refuse de mourir.",
+      "words": [
+        {
+          "start": 90,
+          "end": 90.36,
+          "word": "Je"
+        },
+        {
+          "start": 90.36,
+          "end": 91.09,
+          "word": "nois"
+        },
+        {
+          "start": 91.09,
+          "end": 91.27,
+          "word": "à"
+        },
+        {
+          "start": 91.27,
+          "end": 91.81,
+          "word": "ton"
+        },
+        {
+          "start": 91.81,
+          "end": 93.26,
+          "word": "souvenir"
+        },
+        {
+          "start": 93.26,
+          "end": 93.98,
+          "word": "mais"
+        },
+        {
+          "start": 93.98,
+          "end": 94.35,
+          "word": "il"
+        },
+        {
+          "start": 94.35,
+          "end": 95.43,
+          "word": "refuse"
+        },
+        {
+          "start": 95.43,
+          "end": 95.79,
+          "word": "de"
+        },
+        {
+          "start": 95.79,
+          "end": 96.88,
+          "word": "mourir."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 97,
+      "end": 103.88,
+      "text": "Et j'en parle autour de moi. Mais je n'entends que toi.",
+      "words": [
+        {
+          "start": 97,
+          "end": 97.34,
+          "word": "Et"
+        },
+        {
+          "start": 97.34,
+          "end": 97.84,
+          "word": "j'en"
+        },
+        {
+          "start": 97.84,
+          "end": 98.68,
+          "word": "parle"
+        },
+        {
+          "start": 98.68,
+          "end": 99.68,
+          "word": "autour"
+        },
+        {
+          "start": 99.68,
+          "end": 100.02,
+          "word": "de"
+        },
+        {
+          "start": 100.02,
+          "end": 100.52,
+          "word": "moi."
+        },
+        {
+          "start": 100.52,
+          "end": 101.2,
+          "word": "Mais"
+        },
+        {
+          "start": 101.2,
+          "end": 101.53,
+          "word": "je"
+        },
+        {
+          "start": 101.53,
+          "end": 102.87,
+          "word": "n'entends"
+        },
+        {
+          "start": 102.87,
+          "end": 103.38,
+          "word": "que"
+        },
+        {
+          "start": 103.38,
+          "end": 103.88,
+          "word": "toi."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 104,
+      "end": 111.88,
+      "text": "Mon silence me poursuit même au cœur du br.",
+      "words": [
+        {
+          "start": 104,
+          "end": 104.7,
+          "word": "Mon"
+        },
+        {
+          "start": 104.7,
+          "end": 106.32,
+          "word": "silence"
+        },
+        {
+          "start": 106.32,
+          "end": 106.78,
+          "word": "me"
+        },
+        {
+          "start": 106.78,
+          "end": 108.64,
+          "word": "poursuit"
+        },
+        {
+          "start": 108.64,
+          "end": 109.56,
+          "word": "même"
+        },
+        {
+          "start": 109.56,
+          "end": 110.03,
+          "word": "au"
+        },
+        {
+          "start": 110.03,
+          "end": 110.95,
+          "word": "cœur"
+        },
+        {
+          "start": 110.95,
+          "end": 111.42,
+          "word": "du"
+        },
+        {
+          "start": 111.42,
+          "end": 111.88,
+          "word": "br."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 112,
+      "end": 118.88,
+      "text": "J'ai voulu fuir, j'ai voulu mentir, dire que je pouvais encore sourire, mais ton",
+      "words": [
+        {
+          "start": 112,
+          "end": 112.33,
+          "word": "J'ai"
+        },
+        {
+          "start": 112.33,
+          "end": 112.89,
+          "word": "voulu"
+        },
+        {
+          "start": 112.89,
+          "end": 113.33,
+          "word": "fuir,"
+        },
+        {
+          "start": 113.33,
+          "end": 113.66,
+          "word": "j'ai"
+        },
+        {
+          "start": 113.66,
+          "end": 114.22,
+          "word": "voulu"
+        },
+        {
+          "start": 114.22,
+          "end": 114.89,
+          "word": "mentir,"
+        },
+        {
+          "start": 114.89,
+          "end": 115.33,
+          "word": "dire"
+        },
+        {
+          "start": 115.33,
+          "end": 115.66,
+          "word": "que"
+        },
+        {
+          "start": 115.66,
+          "end": 115.88,
+          "word": "je"
+        },
+        {
+          "start": 115.88,
+          "end": 116.66,
+          "word": "pouvais"
+        },
+        {
+          "start": 116.66,
+          "end": 117.33,
+          "word": "encore"
+        },
+        {
+          "start": 117.33,
+          "end": 118.1,
+          "word": "sourire,"
+        },
+        {
+          "start": 118.1,
+          "end": 118.55,
+          "word": "mais"
+        },
+        {
+          "start": 118.55,
+          "end": 118.88,
+          "word": "ton"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 119,
+      "end": 129.88,
+      "text": "absence est un poison qui coule lentement dans mes saisons.",
+      "words": [
+        {
+          "start": 119,
+          "end": 120.55,
+          "word": "absence"
+        },
+        {
+          "start": 120.55,
+          "end": 121.22,
+          "word": "est"
+        },
+        {
+          "start": 121.22,
+          "end": 121.66,
+          "word": "un"
+        },
+        {
+          "start": 121.66,
+          "end": 123.0,
+          "word": "poison"
+        },
+        {
+          "start": 123.0,
+          "end": 123.66,
+          "word": "qui"
+        },
+        {
+          "start": 123.66,
+          "end": 124.77,
+          "word": "coule"
+        },
+        {
+          "start": 124.77,
+          "end": 126.77,
+          "word": "lentement"
+        },
+        {
+          "start": 126.77,
+          "end": 127.66,
+          "word": "dans"
+        },
+        {
+          "start": 127.66,
+          "end": 128.33,
+          "word": "mes"
+        },
+        {
+          "start": 128.33,
+          "end": 129.88,
+          "word": "saisons."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 130,
+      "end": 138.88,
+      "text": "Le vide a pris ta place et mon bras comme tu ne fais plus, comme tu ne le feras plus. Il me sert contre lui dans",
+      "words": [
+        {
+          "start": 130,
+          "end": 130.21,
+          "word": "Le"
+        },
+        {
+          "start": 130.21,
+          "end": 130.63,
+          "word": "vide"
+        },
+        {
+          "start": 130.63,
+          "end": 130.73,
+          "word": "a"
+        },
+        {
+          "start": 130.73,
+          "end": 131.15,
+          "word": "pris"
+        },
+        {
+          "start": 131.15,
+          "end": 131.36,
+          "word": "ta"
+        },
+        {
+          "start": 131.36,
+          "end": 131.88,
+          "word": "place"
+        },
+        {
+          "start": 131.88,
+          "end": 132.09,
+          "word": "et"
+        },
+        {
+          "start": 132.09,
+          "end": 132.4,
+          "word": "mon"
+        },
+        {
+          "start": 132.4,
+          "end": 132.82,
+          "word": "bras"
+        },
+        {
+          "start": 132.82,
+          "end": 133.34,
+          "word": "comme"
+        },
+        {
+          "start": 133.34,
+          "end": 133.55,
+          "word": "tu"
+        },
+        {
+          "start": 133.55,
+          "end": 133.76,
+          "word": "ne"
+        },
+        {
+          "start": 133.76,
+          "end": 134.18,
+          "word": "fais"
+        },
+        {
+          "start": 134.18,
+          "end": 134.6,
+          "word": "plus,"
+        },
+        {
+          "start": 134.6,
+          "end": 135.12,
+          "word": "comme"
+        },
+        {
+          "start": 135.12,
+          "end": 135.33,
+          "word": "tu"
+        },
+        {
+          "start": 135.33,
+          "end": 135.54,
+          "word": "ne"
+        },
+        {
+          "start": 135.54,
+          "end": 135.75,
+          "word": "le"
+        },
+        {
+          "start": 135.75,
+          "end": 136.27,
+          "word": "feras"
+        },
+        {
+          "start": 136.27,
+          "end": 136.69,
+          "word": "plus."
+        },
+        {
+          "start": 136.69,
+          "end": 136.9,
+          "word": "Il"
+        },
+        {
+          "start": 136.9,
+          "end": 137.1,
+          "word": "me"
+        },
+        {
+          "start": 137.1,
+          "end": 137.52,
+          "word": "sert"
+        },
+        {
+          "start": 137.52,
+          "end": 138.15,
+          "word": "contre"
+        },
+        {
+          "start": 138.15,
+          "end": 138.46,
+          "word": "lui"
+        },
+        {
+          "start": 138.46,
+          "end": 138.88,
+          "word": "dans"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 139,
+      "end": 152.88,
+      "text": "le froid de la nuit. Et je tombe, je m'efface dans ce vide qui me dépasse.",
+      "words": [
+        {
+          "start": 139,
+          "end": 139.5,
+          "word": "le"
+        },
+        {
+          "start": 139.5,
+          "end": 140.77,
+          "word": "froid"
+        },
+        {
+          "start": 140.77,
+          "end": 141.27,
+          "word": "de"
+        },
+        {
+          "start": 141.27,
+          "end": 141.78,
+          "word": "la"
+        },
+        {
+          "start": 141.78,
+          "end": 142.79,
+          "word": "nuit."
+        },
+        {
+          "start": 142.79,
+          "end": 143.29,
+          "word": "Et"
+        },
+        {
+          "start": 143.29,
+          "end": 143.79,
+          "word": "je"
+        },
+        {
+          "start": 143.79,
+          "end": 145.06,
+          "word": "tombe,"
+        },
+        {
+          "start": 145.06,
+          "end": 145.56,
+          "word": "je"
+        },
+        {
+          "start": 145.56,
+          "end": 147.33,
+          "word": "m'efface"
+        },
+        {
+          "start": 147.33,
+          "end": 148.34,
+          "word": "dans"
+        },
+        {
+          "start": 148.34,
+          "end": 148.84,
+          "word": "ce"
+        },
+        {
+          "start": 148.84,
+          "end": 149.85,
+          "word": "vide"
+        },
+        {
+          "start": 149.85,
+          "end": 150.61,
+          "word": "qui"
+        },
+        {
+          "start": 150.61,
+          "end": 151.11,
+          "word": "me"
+        },
+        {
+          "start": 151.11,
+          "end": 152.88,
+          "word": "dépasse."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 153,
+      "end": 159.88,
+      "text": "Si aimer c'est disparaître, alors je n'existe plus peut-être.",
+      "words": [
+        {
+          "start": 153,
+          "end": 153.29,
+          "word": "Si"
+        },
+        {
+          "start": 153.29,
+          "end": 154.0,
+          "word": "aimer"
+        },
+        {
+          "start": 154.0,
+          "end": 154.58,
+          "word": "c'est"
+        },
+        {
+          "start": 154.58,
+          "end": 156.15,
+          "word": "disparaître,"
+        },
+        {
+          "start": 156.15,
+          "end": 156.87,
+          "word": "alors"
+        },
+        {
+          "start": 156.87,
+          "end": 157.16,
+          "word": "je"
+        },
+        {
+          "start": 157.16,
+          "end": 158.16,
+          "word": "n'existe"
+        },
+        {
+          "start": 158.16,
+          "end": 158.73,
+          "word": "plus"
+        },
+        {
+          "start": 158.73,
+          "end": 159.88,
+          "word": "peut-être."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 160,
+      "end": 168.88,
+      "text": "Je suis restée dans ton décor mais toi tu vis ailleurs encore.",
+      "words": [
+        {
+          "start": 160,
+          "end": 160.36,
+          "word": "Je"
+        },
+        {
+          "start": 160.36,
+          "end": 161.07,
+          "word": "suis"
+        },
+        {
+          "start": 161.07,
+          "end": 162.13,
+          "word": "restée"
+        },
+        {
+          "start": 162.13,
+          "end": 162.84,
+          "word": "dans"
+        },
+        {
+          "start": 162.84,
+          "end": 163.37,
+          "word": "ton"
+        },
+        {
+          "start": 163.37,
+          "end": 164.26,
+          "word": "décor"
+        },
+        {
+          "start": 164.26,
+          "end": 164.97,
+          "word": "mais"
+        },
+        {
+          "start": 164.97,
+          "end": 165.51,
+          "word": "toi"
+        },
+        {
+          "start": 165.51,
+          "end": 165.86,
+          "word": "tu"
+        },
+        {
+          "start": 165.86,
+          "end": 166.39,
+          "word": "vis"
+        },
+        {
+          "start": 166.39,
+          "end": 167.81,
+          "word": "ailleurs"
+        },
+        {
+          "start": 167.81,
+          "end": 168.88,
+          "word": "encore."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 169,
+      "end": 170.88,
+      "text": "Le vide a pris ta place.",
+      "words": [
+        {
+          "start": 169,
+          "end": 169.21,
+          "word": "Le"
+        },
+        {
+          "start": 169.21,
+          "end": 169.63,
+          "word": "vide"
+        },
+        {
+          "start": 169.63,
+          "end": 169.73,
+          "word": "a"
+        },
+        {
+          "start": 169.73,
+          "end": 170.15,
+          "word": "pris"
+        },
+        {
+          "start": 170.15,
+          "end": 170.36,
+          "word": "ta"
+        },
+        {
+          "start": 170.36,
+          "end": 170.88,
+          "word": "place."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 171,
+      "end": 177.88,
+      "text": "Et me rendtait nous, dans tout ce qu'on était fou. Et je parle dans le noir à ce qu'il reste",
+      "words": [
+        {
+          "start": 171,
+          "end": 171.2,
+          "word": "Et"
+        },
+        {
+          "start": 171.2,
+          "end": 171.4,
+          "word": "me"
+        },
+        {
+          "start": 171.4,
+          "end": 172.2,
+          "word": "rendtait"
+        },
+        {
+          "start": 172.2,
+          "end": 172.6,
+          "word": "nous,"
+        },
+        {
+          "start": 172.6,
+          "end": 172.99,
+          "word": "dans"
+        },
+        {
+          "start": 172.99,
+          "end": 173.39,
+          "word": "tout"
+        },
+        {
+          "start": 173.39,
+          "end": 173.59,
+          "word": "ce"
+        },
+        {
+          "start": 173.59,
+          "end": 173.99,
+          "word": "qu'on"
+        },
+        {
+          "start": 173.99,
+          "end": 174.49,
+          "word": "était"
+        },
+        {
+          "start": 174.49,
+          "end": 174.79,
+          "word": "fou."
+        },
+        {
+          "start": 174.79,
+          "end": 174.99,
+          "word": "Et"
+        },
+        {
+          "start": 174.99,
+          "end": 175.19,
+          "word": "je"
+        },
+        {
+          "start": 175.19,
+          "end": 175.69,
+          "word": "parle"
+        },
+        {
+          "start": 175.69,
+          "end": 176.09,
+          "word": "dans"
+        },
+        {
+          "start": 176.09,
+          "end": 176.28,
+          "word": "le"
+        },
+        {
+          "start": 176.28,
+          "end": 176.68,
+          "word": "noir"
+        },
+        {
+          "start": 176.68,
+          "end": 176.78,
+          "word": "à"
+        },
+        {
+          "start": 176.78,
+          "end": 176.98,
+          "word": "ce"
+        },
+        {
+          "start": 176.98,
+          "end": 177.38,
+          "word": "qu'il"
+        },
+        {
+          "start": 177.38,
+          "end": 177.88,
+          "word": "reste"
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 178,
+      "end": 191.88,
+      "text": "ton regard mais même mon propre reflet ne me reconnaît plus jamais.",
+      "words": [
+        {
+          "start": 178,
+          "end": 178.76,
+          "word": "ton"
+        },
+        {
+          "start": 178.76,
+          "end": 180.27,
+          "word": "regard"
+        },
+        {
+          "start": 180.27,
+          "end": 181.28,
+          "word": "mais"
+        },
+        {
+          "start": 181.28,
+          "end": 182.29,
+          "word": "même"
+        },
+        {
+          "start": 182.29,
+          "end": 183.05,
+          "word": "mon"
+        },
+        {
+          "start": 183.05,
+          "end": 184.56,
+          "word": "propre"
+        },
+        {
+          "start": 184.56,
+          "end": 186.08,
+          "word": "reflet"
+        },
+        {
+          "start": 186.08,
+          "end": 186.58,
+          "word": "ne"
+        },
+        {
+          "start": 186.58,
+          "end": 187.09,
+          "word": "me"
+        },
+        {
+          "start": 187.09,
+          "end": 189.36,
+          "word": "reconnaît"
+        },
+        {
+          "start": 189.36,
+          "end": 190.37,
+          "word": "plus"
+        },
+        {
+          "start": 190.37,
+          "end": 191.88,
+          "word": "jamais."
+        }
+      ],
+      "translations": {}
+    },
+    {
+      "start": 192,
+      "end": 195.88,
+      "text": "Oh.",
+      "words": [
+        {
+          "start": 192,
+          "end": 195.88,
+          "word": "Oh."
+        }
+      ],
+      "translations": {}
+    }
+  ],
+  "status": "draft_fr_youtube_transcript_unverified_word_timing_estimated",
+  "notes": "Transcription aportada por el usuario. Frases dudosas conservadas para no inventar letra; tiempos de palabras interpolados, NO verificados contra audio."
+}
